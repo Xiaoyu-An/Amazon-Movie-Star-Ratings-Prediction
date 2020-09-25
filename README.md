@@ -17,3 +17,6 @@ The final model takes a little bit long to train(for my machine, approximately 1
 TfidVectorizer to extract reviews in trian.csv
 Results
 The final score is here: https://www.kaggle.com/c/bu-cs506-spring-2020-midterm/leaderboard
+
+## Kaggle score
+![image](https://github.com/Xiaoyu-An/Amazon-Movie-Star-Ratings-Prediction/blob/master/Screen%20Shot%202020-09-25%20at%202.41.28%20AM.png)
